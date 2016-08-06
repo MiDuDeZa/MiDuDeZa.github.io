@@ -1,6 +1,3 @@
-body{
-  font-size: 10px;
-}
 img.skull {display: block; margin-left: auto; margin-right: auto;}
 
 img.main {display: block; margin-left: 45.5%; margin-right: auto;}
@@ -14,17 +11,19 @@ img.right {display: block; margin-left: auto; margin-right: 42.5% ;margin-top: -
 .jumbotron h1 {
   font-family: 'Bungee Shade', cursive;
   text-align: center;
+  font-size:35px;
 }
 .jumbotron h3 {
   margin-top: 2.5%;
   text-align: center;
   font-family: 'Lobster', cursive;
+  font-size:25px;
 }
 
 .jumbotron h4 {
   text-align: center;
   margin-top: 2%;
-  font-size:25px;
+  font-size:20px;
 }
 
 body h6 {
