@@ -1,0 +1,15 @@
+ <img src="Images/1606922883-310440336-ktknkrppc.png" style="padding:0px" >
+        <img src="Images/birthday-hat-transparent-background-free-birthday-party-hat.png"  >     
+        
+        <div id="video">
+        
+        
+        	<video controls autoplay loop width="50%" height="50%" >
+            	<source src="Videos/VID_20161112_170051.mp4" >
+               
+            </video>
+            <img src="Images/birthday-hat-transparent-background-free-birthday-party-hat.png" style="margin:30px">
+        </div>
+        
+        
+        6:23 CH 12/11/2016

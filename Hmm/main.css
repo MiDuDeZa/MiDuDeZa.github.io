@@ -160,11 +160,11 @@ article img {
 	display: inline-block;
 	width: 10px;
 	height: 10px;
-	background: #bbb;
+	background: #587285;
 }
 
 #active label:hover {
-	background: #ccc;
+	background: #FFF;
 	border-color: #777 !important;
 }
 
@@ -200,7 +200,7 @@ article img {
 #slide3:checked ~ #active label:nth-child(3),
 #slide4:checked ~ #active label:nth-child(4),
 #slide5:checked ~ #active label:nth-child(5) {
-	background: #333;
+	background: #FFF;
 	border-color: #333 !important;
 }
 
@@ -213,18 +213,20 @@ article img {
 	font-style: italic;
 	padding: 30px 30px;
 	opacity: 0;
-	color: #000;
+	color: #F9C;
 	text-align: left;
 }
 
 .info h3 {
-	color: #333;
+	color: #000;
 	margin: 0 0 5px;
-	font-weight: normal;
-	font-size: 22px;
+	font-weight: lighter;
+	font-size: 10%px;
 	font-style: normal;
 }
-
+.info a{
+	color:#F9C;
+}
 /* Slider Styling */
 
 #slides {

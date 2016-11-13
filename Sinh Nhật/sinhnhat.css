@@ -1,0 +1,16 @@
+*{
+margin:0px;
+padding:0px;
+}
+body {
+  font: 14px/22px Arial, Helvetica, sans-serif;
+  color: #333;
+  background: url(../Hmm/Image/background-images-for-websites-016.jpg);
+  margin: 50px auto;
+  overflow-x: hidden;
+}
+#banner{
+	margin: -3% 0 0 2%;
+	
+}
+

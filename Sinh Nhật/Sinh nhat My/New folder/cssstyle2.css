@@ -1,0 +1,66 @@
+*{
+margin:0px;
+padding:0px;
+}
+
+body{
+background-image: url(images/Untitled1.png);
+}
+
+
+
+.menu {
+	background:#000;
+	line-height:40px;
+	height:40px;
+	margin:auto;
+	font-size:30px;
+	
+}	
+
+.menu ul{
+	list-style-type:none;
+	padding:0px;
+}
+
+.menu ul li{
+	float:left;
+	width:260px;
+	text-align:center;
+	line-height:40px;
+}
+
+.menu ul li a{
+	text-decoration:none;
+	color:#FFF;
+	
+}
+.menu ul li a:hover{
+	color:#F09;
+	
+}
+
+.main{
+	width:1200px;
+	margin:auto;
+}
+
+#footer{
+height:50px;
+background:#666;
+line-height:50px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
